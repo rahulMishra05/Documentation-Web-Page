@@ -5,6 +5,7 @@ This is an example website to demonstrate the use of AOS library to add animatio
 ## 📡 Important links
 1. [Official documentation](https://github.com/michalsnik/aos)
 2. [Official website](https://michalsnik.github.io/aos/)
+3. [Live Demo](https://documentation-webpage.netlify.app/)
 
 ## Instalation
 
