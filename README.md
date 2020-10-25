@@ -1,15 +1,15 @@
 # Animation usind AOS library
 
-This is an example website to demonstrate the use of AOS library to add animation to our webpage.
+This is an example website to demonstrate the use of AOS library to add animation in a webpage.
 
 ## 📡 Important links
 1. [Official documentation](https://github.com/michalsnik/aos)
 2. [Official website](https://michalsnik.github.io/aos/)
 3. [Live Demo](https://documentation-webpage.netlify.app/)
 
-## Instalation
+## 🛠 Instalation
 
-### Basic
+### 📌 Basic
 1. Add styles in `<head>`:
     ```HTML
       <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -21,7 +21,7 @@ This is an example website to demonstrate the use of AOS library to add animatio
     AOS.init();
     </script>
     ```
-### Using package managers
+### 📝 Using package managers
 1. Install `aos` package:
     - `yarn add aos@next`
     - or `npm install --save aos@next`
@@ -34,7 +34,7 @@ This is an example website to demonstrate the use of AOS library to add animatio
     ```
 In order to make it work you'll have to make sure your build process has configured styles loader, and bundles it all correctly. If you're using [Parcel](https://parceljs.org/) however, it will work out of the box as provided.
 
-## Predefined options
+## 💡 Predefined options
 
 ### Animations
 
